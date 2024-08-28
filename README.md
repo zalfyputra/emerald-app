@@ -1,6 +1,6 @@
-# emerald
+# Emerald: Shop your drinks.
 
-Emerald: Shop your drinks.
+Discover the world of beverages with Emerald, the one-stop app for all your drink cravings! Whether you're a coffee lover, tea enthusiast, juice fan, or cocktail connoisseur, Emerald brings an extensive selection of drinks right to your fingertips.
 
 ## Getting Started
 
